@@ -1,20 +1,5 @@
 {
-  "version": 3,
-  "artifactType": {
-    "type": "APK",
-    "kind": "Directory"
-  },
-  "applicationId": "com.wjy.tv",
-  "variantName": "debug",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0.0",
-      "outputFile": "TVPLUS_1.0.0.apk"
-    }
-  ],
-  "elementType": "File"
+  "code": 1,
+  "name": "1.0.0",
+  "desc": "* 新增收藏功能\n* 新增選集功能\n* 調整點播版面\n* 調整最近觀看功能\n* 自動識別豎屏影片\n* 詳情頁支持下拉刷新\n* 調整詳情頁快搜介面"
 }
